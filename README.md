@@ -28,21 +28,21 @@
         <img src="https://logonoid.com/images/android-studio-logo.png" width="60">
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="60">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
     </td>
 </tr>
 <tr>
-    <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/6a3f0fa7-2b7d-4bbd-ab32-2c15ad066c00">
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>
-    <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/420d0861-1b04-4bcb-948c-0905815291be" height="60">
+    <td align='center' width="190">
+        <img src="https://schwabencode.com/contents/logos/VS2019-Badge.png" width="60">
     </td>
-    <td align='center'>
-        <img src="https://github.com/faranak-cs/faranak-cs/assets/73027299/ffcdf6e4-cdaf-481b-b16c-dbc5025b7d6f" height="60">
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
     </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" height="60">
+    <td align='center' width="190">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60">
     </td>
 </tr>
 </table>
