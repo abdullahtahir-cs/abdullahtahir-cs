@@ -8,12 +8,16 @@
 - 🔖 Technological Blogs: [Medium](https://medium.com/@abdullahtahir.cs)
 ## Tech Stack
 <table width="100">
+<tr></tr>
 <tr>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg">
     </td>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
@@ -27,13 +31,11 @@
     <td align='center' width="190">
         <img src="https://logonoid.com/images/android-studio-logo.png" width="60">
     </td>
-    <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
-    </td>
 </tr>
+<tr></tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60">
     </td>
     <td align='center' width="190">
         <img src="https://schwabencode.com/contents/logos/VS2019-Badge.png" width="60">
@@ -43,6 +45,39 @@
     </td>
     <td align='center' width="190">
         <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="60">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://upload.vectorlogo.zone/logos/dartlang/images/49047154-557b-4a63-abaa-0ffd114092d2.svg">
+    </td>
+</tr>
+<tr></tr>
+<tr>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/github_copilot/github_copilot-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg">
+    </td>
+    <td align='center' width="190">
+        <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-wordmark.svg">
     </td>
 </tr>
 </table>
