@@ -1,7 +1,7 @@
 ## Computer Science Graduate
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahtahir-cs" alt="abdullahtahir-cs" /> </p>
 
-- 🔭 I’m currently working on my Final Year Project 'Smart Parking System Mobile Application' using cutting-edge technologies with a focus on helping daily car park customers.
+- 🔭 I have completed my Final Year Project 'Smart Parking System Mobile Application' using cutting-edge technologies with a focus on helping daily car park customers.
 - 👯 I’m looking to collaborate on agile software development, data science, and cybersecurity.
 - 💬 Ask me about anything you need help with.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abdullaht/)
